@@ -1,0 +1,9 @@
+pypdf
+
+sentence-transformers
+
+numpy
+
+ollama
+
+fontools
